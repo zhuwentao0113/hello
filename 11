@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="toTop" content="true">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title></title>
+<meta charset="utf-8">
+
+<meta content="no-cache,must-revalidate" http-equiv="Cache-Control">
+<meta content="no-cache" http-equiv="pragma">
+<meta content="0" http-equiv="expires">
+<meta content="telephone=no, address=no" name="format-detection">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<!-- apple devices fullscreen -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- Mobile Dehvices Support @end -->
+<link href="css/style.css?v=1" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body style="background:#fff">
+	<div class="xuanze">
+  	<div class="xuanze_left"><img src="images/q.png"></div>
+    <div class="xuanze_right">如何选择每天转播的商品？</div>
+  </div>
+  <div class="wenda">
+  		<div class="xuanze_left"><img src="images/a.png"></div>
+      <div class="wenda_right">
+      	<div class="wenda_right_li">
+      		<div class="wenda_right_title">1、正在进行的活动品牌从哪看？</div>
+          <div class="wenda_right_font">打开APP，在首页栏目里，所有活动和预告都
+在首页，每个品牌的商品一般上架时间为一周
+，过时将下架，无法购买。</div>
+				</div>
+        <div class="wenda_right_li">
+      		<div class="wenda_right_title">2、这么多品牌，应该卖什么呢？</div>
+          <div class="wenda_right_font">看一看身边的朋友都有哪些需求，目前平台在
+售的商品覆盖：服装，鞋包，配饰，食品，化妆品，等众多品类。足以满足大部分人的需求。</div>
+				</div>
+      </div>
+  </div>
+</body>
+</html>
